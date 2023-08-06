@@ -1,0 +1,4 @@
+- 👋 Hi, I’m shaik subhani 
+- 👀 I’m interested in developing
+- 🌱 I’m currently working as Etl developer 
+- 💞️ I’m looking for job as informatica developer 
